@@ -1,0 +1,15 @@
+{
+	"name": "projectfactoryesunnybhoi",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f7f580ce-b5b0-4c34-a6b1-0bcd61aa415c",
+		"tenantId": "2b67b049-96ef-4fa6-85ce-9284ea2413a6"
+	}
+}
